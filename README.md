@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+WitchEngineering+Github;Below+are+mycurrent+Proyects)](https://git.io/typing-svg)
 <!--
 **WitchEngineering/WitchEngineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
